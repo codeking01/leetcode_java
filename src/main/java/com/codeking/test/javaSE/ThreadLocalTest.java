@@ -1,4 +1,4 @@
-package com.codeking.test;
+package com.codeking.test.javaSE;
 
 import java.util.HashMap;
 

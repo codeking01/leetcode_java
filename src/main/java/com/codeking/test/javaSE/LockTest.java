@@ -1,7 +1,6 @@
-package com.codeking.test;
+package com.codeking.test.javaSE;
 
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.concurrent.atomic.AtomicReference;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
