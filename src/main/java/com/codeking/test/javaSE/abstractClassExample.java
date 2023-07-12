@@ -4,7 +4,7 @@ package com.codeking.test.javaSE;
  * @author CodeKing
  * @since 2023/5/29  15:54
  */
-abstract class AbstractClassExample {
+abstract class abstractClassExample {
     int anInt;
     String aString;
 
@@ -15,7 +15,7 @@ abstract class AbstractClassExample {
     }
 }
 
-class A extends AbstractClassExample {
+class A extends abstractClassExample {
 
     @Override
     public void abstractMethod() {

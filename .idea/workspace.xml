@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeking/test/javaSE/AbstractClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeking/test/javaSE/abstractClassExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeking/test/javaSE/getGenericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeking/test/javaSE/getGenericTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dd875bd6-984a-4e0e-bed7-35562c6b8373" />
+        <option name="url" value="git@github.com:codeking01/leetcode_java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://E:/develop_tool/jdk1.8.0_311/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://E:/develop_tool/jdk1.8.0_311/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://E:/develop_tool/jdk1.8.0_311/src.zip!/java/util/concurrent/locks/Lock.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://E:/develop_tool/jdk1.8.0_311/src.zip!/java/util/concurrent/locks/ReentrantLock.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\develop_tool\Other_envs\Maven_Envs\LocalRepository" />
+        <option name="userSettingsFile" value="E:\develop_tool\Other_envs\Maven_Envs\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PgKJpkZ4hqDkR5rS0hoVGbTOMz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/king/IdeaSnapshots/lc77_2023_07_12_200444.jfr&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2678161&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ALL_Softwares\Develop_Tools\all_projects\leetcode\py_leetcode\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.lc17">
+    <configuration name="SecTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.exam.wyyd.SecTest" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeking.exam.wyyd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc04" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeking.lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc17" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeking.lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc77" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeking.lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.exam.wyyd.test1" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeking.exam.wyyd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.lc17" />
+        <item itemvalue="应用程序.test1" />
+        <item itemvalue="应用程序.lc04" />
+        <item itemvalue="应用程序.lc77" />
+        <item itemvalue="应用程序.SecTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="" />
+      <created>1683873218925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683873218925</updated>
+      <workItem from="1683873219958" duration="5250000" />
+      <workItem from="1683942962460" duration="2458000" />
+      <workItem from="1684130503326" duration="11272000" />
+      <workItem from="1684151365761" duration="5114000" />
+      <workItem from="1684202573321" duration="530000" />
+      <workItem from="1684224729390" duration="5887000" />
+      <workItem from="1684322802978" duration="9211000" />
+      <workItem from="1684374923917" duration="930000" />
+      <workItem from="1684375977986" duration="18000" />
+      <workItem from="1684376035501" duration="2962000" />
+      <workItem from="1684413530348" duration="3652000" />
+      <workItem from="1684417731101" duration="38000" />
+      <workItem from="1684483795275" duration="9642000" />
+      <workItem from="1684676037839" duration="2399000" />
+      <workItem from="1684678458551" duration="31000" />
+      <workItem from="1684722919813" duration="356000" />
+      <workItem from="1684744449237" duration="3418000" />
+      <workItem from="1684848860812" duration="1982000" />
+      <workItem from="1684893660027" duration="5983000" />
+      <workItem from="1684911893433" duration="681000" />
+      <workItem from="1684912612777" duration="633000" />
+      <workItem from="1684913484178" duration="266000" />
+      <workItem from="1684913766011" duration="586000" />
+      <workItem from="1684914369073" duration="149000" />
+      <workItem from="1684914652434" duration="230000" />
+      <workItem from="1684914928140" duration="38000" />
+      <workItem from="1684914985967" duration="11224000" />
+      <workItem from="1684997870566" duration="6000" />
+      <workItem from="1685339836622" duration="2007000" />
+      <workItem from="1685346065476" duration="7868000" />
+      <workItem from="1685411803238" duration="6000" />
+      <workItem from="1685423577228" duration="118000" />
+      <workItem from="1685423713765" duration="126000" />
+      <workItem from="1685423856778" duration="17813000" />
+      <workItem from="1685503618149" duration="10719000" />
+      <workItem from="1685761513641" duration="220000" />
+      <workItem from="1685761756000" duration="184000" />
+      <workItem from="1685761957147" duration="63000" />
+      <workItem from="1685762042592" duration="126000" />
+      <workItem from="1685762196352" duration="43000" />
+      <workItem from="1685885265641" duration="666000" />
+      <workItem from="1685886428795" duration="65000" />
+      <workItem from="1685886529428" duration="148000" />
+      <workItem from="1685886694531" duration="61000" />
+      <workItem from="1685886786458" duration="22000" />
+      <workItem from="1685886828056" duration="53000" />
+      <workItem from="1685886893510" duration="360000" />
+      <workItem from="1685887719759" duration="1030000" />
+      <workItem from="1685888903828" duration="457000" />
+      <workItem from="1685889828930" duration="68000" />
+      <workItem from="1685889930551" duration="1122000" />
+      <workItem from="1685926723889" duration="543000" />
+      <workItem from="1685927291825" duration="151000" />
+      <workItem from="1685927461706" duration="92000" />
+      <workItem from="1685927567786" duration="146000" />
+      <workItem from="1685927730794" duration="311000" />
+      <workItem from="1685928056240" duration="254000" />
+      <workItem from="1685928323462" duration="741000" />
+      <workItem from="1685929082214" duration="99000" />
+      <workItem from="1685929221092" duration="3713000" />
+      <workItem from="1685933657483" duration="3928000" />
+      <workItem from="1685942848682" duration="1770000" />
+      <workItem from="1685947854214" duration="117000" />
+      <workItem from="1685948019493" duration="2077000" />
+      <workItem from="1685950179994" duration="9000" />
+      <workItem from="1685950291618" duration="5252000" />
+      <workItem from="1685963559120" duration="329000" />
+      <workItem from="1685963930835" duration="88000" />
+      <workItem from="1685964033403" duration="86000" />
+      <workItem from="1685964138971" duration="127000" />
+      <workItem from="1685964290691" duration="753000" />
+      <workItem from="1685965247183" duration="215000" />
+      <workItem from="1685965503019" duration="25000" />
+      <workItem from="1685965910583" duration="191000" />
+      <workItem from="1685966359400" duration="1095000" />
+      <workItem from="1685967873075" duration="250000" />
+      <workItem from="1685968144191" duration="1353000" />
+      <workItem from="1685970439825" duration="229000" />
+      <workItem from="1685970836882" duration="2193000" />
+      <workItem from="1685974317231" duration="1859000" />
+      <workItem from="1686014389311" duration="12000" />
+      <workItem from="1686051124961" duration="6075000" />
+      <workItem from="1686062501751" duration="1213000" />
+      <workItem from="1686065270226" duration="34000" />
+      <workItem from="1686127493795" duration="4131000" />
+      <workItem from="1689163059313" duration="90000" />
+      <workItem from="1689163265622" duration="64000" />
+      <workItem from="1689163354903" duration="749000" />
+      <workItem from="1689164262501" duration="1727000" />
+    </task>
+    <task id="LOCAL-00001" summary="2023.5.16,master commit,hot lc 04,05">
+      <created>1684228405036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684228405036</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2023.5.18,master commit,hot lc 06">
+      <created>1684379400305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684379400305</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2023.5.18,master commit,hot lc 07">
+      <created>1684417755988</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684417755988</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2023.5.19,master commit,hot lc 15">
+      <created>1684507858898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684507858898</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2023.5.19,master commit,hot lc 14">
+      <created>1684678406112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684678406112</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2023.5.19,master commit,hot lc 13,lc20">
+      <created>1684898850396</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684898850396</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2023.5.31,master commit">
+      <created>1685507420478</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685507420478</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023.5.16,master commit,hot lc 04,05" />
+    <MESSAGE value="2023.5.18,master commit,hot lc 06" />
+    <MESSAGE value="2023.5.18,master commit,hot lc 07" />
+    <MESSAGE value="2023.5.19,master commit,hot lc 15" />
+    <MESSAGE value="2023.5.19,master commit,hot lc 14" />
+    <MESSAGE value="2023.5.19,master commit,hot lc 13,lc20" />
+    <MESSAGE value="2023.5.31,master commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.5.31,master commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codeking/lc/lc20.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$mt01.coverage" NAME="mt01 覆盖结果" MODIFIED="1683873299702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_leetcode/test" />
+  </component>
+</project>
