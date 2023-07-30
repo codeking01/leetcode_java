@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeking/test/javaSE/AbstractClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeking/test/javaSE/abstractClassExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeking/test/javaSE/getGenericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeking/test/javaSE/getGenericTest.java" afterDir="false" />
+    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc35 二分查找">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +57,7 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://E:/develop_tool/jdk1.8.0_311/src.zip!/java/lang/Integer.java" root0="SKIP_INSPECTION" />
     <setting file="jar://E:/develop_tool/jdk1.8.0_311/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" root0="SKIP_INSPECTION" />
     <setting file="jar://E:/develop_tool/jdk1.8.0_311/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" root0="SKIP_INSPECTION" />
     <setting file="jar://E:/develop_tool/jdk1.8.0_311/src.zip!/java/util/concurrent/locks/Lock.java" root0="SKIP_INSPECTION" />
@@ -79,6 +71,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2PgKJpkZ4hqDkR5rS0hoVGbTOMz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -106,31 +102,21 @@
     &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2678161&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\ALL_Softwares\Develop_Tools\all_projects\leetcode\py_leetcode\test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.lc17">
-    <configuration name="SecTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.exam.wyyd.SecTest" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codeking.exam.wyyd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc04" />
+  <component name="RunManager" selected="应用程序.lc35">
+    <configuration name="lc08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc08" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc17" />
+    <configuration name="lc09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc09" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc77" />
+    <configuration name="lc27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc27" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -168,12 +154,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.exam.wyyd.test1" />
+    <configuration name="lc28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc28" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codeking.exam.wyyd.*" />
+          <option name="PATTERN" value="com.codeking.lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc35" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeking.lc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.lc17" />
-        <item itemvalue="应用程序.test1" />
-        <item itemvalue="应用程序.lc04" />
-        <item itemvalue="应用程序.lc77" />
-        <item itemvalue="应用程序.SecTest" />
+        <item itemvalue="应用程序.lc35" />
+        <item itemvalue="应用程序.lc28" />
+        <item itemvalue="应用程序.lc27" />
+        <item itemvalue="应用程序.lc09" />
+        <item itemvalue="应用程序.lc08" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +286,23 @@
       <workItem from="1689163059313" duration="90000" />
       <workItem from="1689163265622" duration="64000" />
       <workItem from="1689163354903" duration="749000" />
-      <workItem from="1689164262501" duration="1727000" />
+      <workItem from="1689164262501" duration="2640000" />
+      <workItem from="1689215279162" duration="778000" />
+      <workItem from="1689572342688" duration="4752000" />
+      <workItem from="1689752476064" duration="2249000" />
+      <workItem from="1689755478507" duration="4873000" />
+      <workItem from="1689760408695" duration="1973000" />
+      <workItem from="1689817823401" duration="37000" />
+      <workItem from="1689817898733" duration="428000" />
+      <workItem from="1689818354925" duration="234000" />
+      <workItem from="1689818610061" duration="114000" />
+      <workItem from="1689818761499" duration="71000" />
+      <workItem from="1689818870602" duration="2000" />
+      <workItem from="1689818893212" duration="866000" />
+      <workItem from="1689819789413" duration="432000" />
+      <workItem from="1690208258943" duration="3099000" />
+      <workItem from="1690249669262" duration="71000" />
+      <workItem from="1690688703668" duration="2677000" />
     </task>
     <task id="LOCAL-00001" summary="2023.5.16,master commit,hot lc 04,05">
       <created>1684228405036</created>
@@ -338,7 +353,47 @@
       <option name="project" value="LOCAL" />
       <updated>1685507420478</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2023.5.31,master commit">
+      <option name="closed" value="true" />
+      <created>1689166196626</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689166196626</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lc08 感觉题目意思难理解，难度不大，就是题意需要好好理解">
+      <option name="closed" value="true" />
+      <created>1689758967915</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689758967915</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lc09 回文数太简单，这个其实可以反转，最后去判断，快很多">
+      <option name="closed" value="true" />
+      <created>1689760014677</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689760014677</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lc09 回文数太简单，这个其实可以反转，最后去判断，快很多">
+      <option name="closed" value="true" />
+      <created>1689776573278</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1689776573278</updated>
+    </task>
+    <task id="LOCAL-00012" summary="lc27. 移除元素，没什么难度，思路就是后面的覆盖前面的元素">
+      <option name="closed" value="true" />
+      <created>1690690931594</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690690931594</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +404,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -362,8 +429,12 @@
     <MESSAGE value="2023.5.19,master commit,hot lc 15" />
     <MESSAGE value="2023.5.19,master commit,hot lc 14" />
     <MESSAGE value="2023.5.19,master commit,hot lc 13,lc20" />
-    <MESSAGE value="2023.5.31,master commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.5.31,master commit" />
+    <MESSAGE value="lc21" />
+    <MESSAGE value="lc08 感觉题目意思难理解，难度不大，就是题意需要好好理解" />
+    <MESSAGE value="lc17 回溯，电话号码组合" />
+    <MESSAGE value="lc09 回文数太简单，这个其实可以反转，最后去判断，快很多" />
+    <MESSAGE value="lc35 二分查找" />
+    <option name="LAST_COMMIT_MESSAGE" value="lc35 二分查找" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

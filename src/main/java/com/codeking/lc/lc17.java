@@ -23,7 +23,7 @@ public class lc17 {
     }
 
     public List<String> letterCombinations(String digits) {
-        if (digits.length() == 0) {
+        if (digits.isEmpty()) {
             return list;
         }
         // 先记录 2-9的字母，存为map
