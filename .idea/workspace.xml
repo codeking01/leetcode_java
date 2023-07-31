@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc35 二分查找">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc38 easy 从后面向前面找单词长度">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,33 +112,7 @@
       <recent name="C:\ALL_Softwares\Develop_Tools\all_projects\leetcode\py_leetcode\test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.lc35">
-    <configuration name="lc08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc08" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codeking.lc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc09" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codeking.lc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.lc67">
     <configuration name="lc27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc27" />
       <module name="leetcode" />
@@ -180,13 +152,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lc61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc61" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeking.lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc67" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeking.lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.lc67" />
+        <item itemvalue="应用程序.lc61" />
         <item itemvalue="应用程序.lc35" />
         <item itemvalue="应用程序.lc28" />
         <item itemvalue="应用程序.lc27" />
-        <item itemvalue="应用程序.lc09" />
-        <item itemvalue="应用程序.lc08" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +300,11 @@
       <workItem from="1689819789413" duration="432000" />
       <workItem from="1690208258943" duration="3099000" />
       <workItem from="1690249669262" duration="71000" />
-      <workItem from="1690688703668" duration="2677000" />
+      <workItem from="1690688703668" duration="5430000" />
+      <workItem from="1690724943275" duration="5870000" />
+      <workItem from="1690768266472" duration="2395000" />
+      <workItem from="1690793366403" duration="740000" />
+      <workItem from="1690804663732" duration="8326000" />
     </task>
     <task id="LOCAL-00001" summary="2023.5.16,master commit,hot lc 04,05">
       <created>1684228405036</created>
@@ -393,7 +395,23 @@
       <option name="project" value="LOCAL" />
       <updated>1690690931594</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lc38 easy 从后面向前面找单词长度">
+      <option name="closed" value="true" />
+      <created>1690691866611</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690691866611</updated>
+    </task>
+    <task id="LOCAL-00014" summary="lc61 easy 加1，做的太慢了·····">
+      <option name="closed" value="true" />
+      <created>1690731700486</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690731700486</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +452,9 @@
     <MESSAGE value="lc17 回溯，电话号码组合" />
     <MESSAGE value="lc09 回文数太简单，这个其实可以反转，最后去判断，快很多" />
     <MESSAGE value="lc35 二分查找" />
-    <option name="LAST_COMMIT_MESSAGE" value="lc35 二分查找" />
+    <MESSAGE value="lc38 easy 从后面向前面找单词长度" />
+    <MESSAGE value="lc61 easy 加1，做的太慢了·····" />
+    <option name="LAST_COMMIT_MESSAGE" value="lc61 easy 加1，做的太慢了·····" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
