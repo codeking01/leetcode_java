@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc38 easy 从后面向前面找单词长度">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,10 +98,11 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2678161&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -112,9 +114,9 @@
       <recent name="C:\ALL_Softwares\Develop_Tools\all_projects\leetcode\py_leetcode\test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.lc67">
-    <configuration name="lc27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc27" />
+  <component name="RunManager" selected="应用程序.lc242">
+    <configuration name="lc01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc01" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc28" />
+    <configuration name="lc121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc121" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc35" />
+    <configuration name="lc242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc242" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc61" />
+    <configuration name="lc49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc49" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -165,8 +167,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc67" />
+    <configuration name="lc560" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc560" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -180,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.lc67" />
-        <item itemvalue="应用程序.lc61" />
-        <item itemvalue="应用程序.lc35" />
-        <item itemvalue="应用程序.lc28" />
-        <item itemvalue="应用程序.lc27" />
+        <item itemvalue="应用程序.lc242" />
+        <item itemvalue="应用程序.lc49" />
+        <item itemvalue="应用程序.lc01" />
+        <item itemvalue="应用程序.lc560" />
+        <item itemvalue="应用程序.lc121" />
       </list>
     </recent_temporary>
   </component>
@@ -305,6 +307,11 @@
       <workItem from="1690768266472" duration="2395000" />
       <workItem from="1690793366403" duration="740000" />
       <workItem from="1690804663732" duration="8326000" />
+      <workItem from="1690855614554" duration="110000" />
+      <workItem from="1690890110267" duration="9843000" />
+      <workItem from="1690941115451" duration="180000" />
+      <workItem from="1690971312348" duration="3480000" />
+      <workItem from="1691027362482" duration="9424000" />
     </task>
     <task id="LOCAL-00001" summary="2023.5.16,master commit,hot lc 04,05">
       <created>1684228405036</created>
@@ -411,7 +418,47 @@
       <option name="project" value="LOCAL" />
       <updated>1690731700486</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="lc136 easy 只出现一次的数字 我这个复杂度高了，使用了排序；可以使用异或去做">
+      <option name="closed" value="true" />
+      <created>1690892730124</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690892730125</updated>
+    </task>
+    <task id="LOCAL-00016" summary="lc121 easy 股票问题，动态规划/贪心都行">
+      <option name="closed" value="true" />
+      <created>1690898622154</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1690898622154</updated>
+    </task>
+    <task id="LOCAL-00017" summary="lc560 mid 连续子数组长度为k的个数 优化思路很难">
+      <option name="closed" value="true" />
+      <created>1691042996014</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1691042996014</updated>
+    </task>
+    <task id="LOCAL-00018" summary="lc01 easy 两数之和，没什么难度，hash优化，复杂度为O（n）">
+      <option name="closed" value="true" />
+      <created>1691044329398</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1691044329398</updated>
+    </task>
+    <task id="LOCAL-00019" summary="lc49 mid  字母异位词分组 hash+排序">
+      <option name="closed" value="true" />
+      <created>1691048945412</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1691048945412</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,9 +499,14 @@
     <MESSAGE value="lc17 回溯，电话号码组合" />
     <MESSAGE value="lc09 回文数太简单，这个其实可以反转，最后去判断，快很多" />
     <MESSAGE value="lc35 二分查找" />
-    <MESSAGE value="lc38 easy 从后面向前面找单词长度" />
     <MESSAGE value="lc61 easy 加1，做的太慢了·····" />
-    <option name="LAST_COMMIT_MESSAGE" value="lc61 easy 加1，做的太慢了·····" />
+    <MESSAGE value="lc136 easy 只出现一次的数字 我这个复杂度高了，使用了排序；可以使用异或去做" />
+    <MESSAGE value="lc121 easy 股票问题，动态规划/贪心都行" />
+    <MESSAGE value="lc560 mid 连续子数组长度为k的个数 优化思路很难" />
+    <MESSAGE value="lc01 easy 两数之和，没什么难度，hash优化，复杂度为O（n）" />
+    <MESSAGE value="lc38 easy 从后面向前面找单词长度" />
+    <MESSAGE value="lc49 mid  字母异位词分组 hash+排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="lc49 mid  字母异位词分组 hash+排序" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
