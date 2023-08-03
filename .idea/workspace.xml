@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc38 easy 从后面向前面找单词长度">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +113,7 @@
       <recent name="C:\ALL_Softwares\Develop_Tools\all_projects\leetcode\py_leetcode\test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.lc242">
+  <component name="RunManager" selected="应用程序.lc128">
     <configuration name="lc01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc01" />
       <module name="leetcode" />
@@ -128,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc121" />
+    <configuration name="lc128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc128" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -182,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.lc128" />
         <item itemvalue="应用程序.lc242" />
         <item itemvalue="应用程序.lc49" />
         <item itemvalue="应用程序.lc01" />
         <item itemvalue="应用程序.lc560" />
-        <item itemvalue="应用程序.lc121" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +310,7 @@
       <workItem from="1690890110267" duration="9843000" />
       <workItem from="1690941115451" duration="180000" />
       <workItem from="1690971312348" duration="3480000" />
-      <workItem from="1691027362482" duration="9424000" />
+      <workItem from="1691027362482" duration="15274000" />
     </task>
     <task id="LOCAL-00001" summary="2023.5.16,master commit,hot lc 04,05">
       <created>1684228405036</created>
@@ -458,7 +457,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691048945412</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="lc242 easy 字母异位词判断">
+      <option name="closed" value="true" />
+      <created>1691049593355</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1691049593356</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,9 +511,10 @@
     <MESSAGE value="lc121 easy 股票问题，动态规划/贪心都行" />
     <MESSAGE value="lc560 mid 连续子数组长度为k的个数 优化思路很难" />
     <MESSAGE value="lc01 easy 两数之和，没什么难度，hash优化，复杂度为O（n）" />
-    <MESSAGE value="lc38 easy 从后面向前面找单词长度" />
     <MESSAGE value="lc49 mid  字母异位词分组 hash+排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="lc49 mid  字母异位词分组 hash+排序" />
+    <MESSAGE value="lc38 easy 从后面向前面找单词长度" />
+    <MESSAGE value="lc242 easy 字母异位词判断" />
+    <option name="LAST_COMMIT_MESSAGE" value="lc242 easy 字母异位词判断" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
