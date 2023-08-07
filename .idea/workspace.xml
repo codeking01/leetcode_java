@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="">
+    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc 73 189 238">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc31.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,31 +82,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/Users/king/Desktop/config_doc",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDK",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2678161",
-    "settings.editor.selected.configurable": "preferences.updates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/king/Desktop/config_doc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2678161&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
@@ -115,7 +115,7 @@
       <recent name="C:\ALL_Softwares\Develop_Tools\all_projects\leetcode\py_leetcode\test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.lc73">
+  <component name="RunManager" selected="应用程序.lc31">
     <configuration name="lc189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc189" />
       <module name="leetcode" />
@@ -142,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc27" />
+    <configuration name="lc31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc31" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -183,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.lc31" />
         <item itemvalue="应用程序.lc73" />
         <item itemvalue="应用程序.lc238" />
         <item itemvalue="应用程序.lc189" />
         <item itemvalue="应用程序.lc56" />
-        <item itemvalue="应用程序.lc27" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +321,12 @@
       <workItem from="1691245101689" duration="1277000" />
       <workItem from="1691247402627" duration="2132000" />
       <workItem from="1691250457992" duration="46000" />
-      <workItem from="1691295175171" duration="6717000" />
+      <workItem from="1691295175171" duration="7172000" />
+      <workItem from="1691312672505" duration="4000" />
+      <workItem from="1691330787415" duration="4088000" />
+      <workItem from="1691373496060" duration="33000" />
+      <workItem from="1691388258183" duration="208000" />
+      <workItem from="1691412570631" duration="2160000" />
     </task>
     <task id="LOCAL-00001" summary="2023.5.16,master commit,hot lc 04,05">
       <created>1684228405036</created>
@@ -492,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691058146038</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="lc 73 238">
+      <option name="closed" value="true" />
+      <created>1691307220232</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1691307220232</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +556,9 @@
     <MESSAGE value="lc242 easy 字母异位词判断" />
     <MESSAGE value="lc128 mid 最长连续序列" />
     <MESSAGE value="lc283 easy 移动零" />
-    <option name="LAST_COMMIT_MESSAGE" value="lc283 easy 移动零" />
+    <MESSAGE value="lc 73 189 238" />
+    <MESSAGE value="lc 73 238" />
+    <option name="LAST_COMMIT_MESSAGE" value="lc 73 238" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -555,6 +570,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/codeking/lc/lc73.java</url>
           <line>44</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codeking/lc/lc31.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
