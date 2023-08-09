@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc 73 189 238">
+    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc 31 mid 下一个排列，思路想了很久，实现不难，查找的时候应该还可以优化">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc31.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,9 +114,9 @@
       <recent name="C:\ALL_Softwares\Develop_Tools\all_projects\leetcode\py_leetcode\test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.lc31">
-    <configuration name="lc189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc189" />
+  <component name="RunManager" selected="应用程序.lc234">
+    <configuration name="lc160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc160" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +128,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc238" />
+    <configuration name="lc206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc206" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeking.lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc234" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -144,19 +156,6 @@
     </configuration>
     <configuration name="lc31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc31" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codeking.lc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc56" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -183,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.lc234" />
+        <item itemvalue="应用程序.lc206" />
+        <item itemvalue="应用程序.lc160" />
         <item itemvalue="应用程序.lc31" />
         <item itemvalue="应用程序.lc73" />
-        <item itemvalue="应用程序.lc238" />
-        <item itemvalue="应用程序.lc189" />
-        <item itemvalue="应用程序.lc56" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +325,11 @@
       <workItem from="1691330787415" duration="4088000" />
       <workItem from="1691373496060" duration="33000" />
       <workItem from="1691388258183" duration="208000" />
-      <workItem from="1691412570631" duration="2160000" />
+      <workItem from="1691412570631" duration="3479000" />
+      <workItem from="1691458757264" duration="12000" />
+      <workItem from="1691496950557" duration="6239000" />
+      <workItem from="1691546187889" duration="65000" />
+      <workItem from="1691588267250" duration="2783000" />
     </task>
     <task id="LOCAL-00001" summary="2023.5.16,master commit,hot lc 04,05">
       <created>1684228405036</created>
@@ -505,7 +508,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691307220232</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="lc 31 mid 下一个排列，思路想了很久，实现不难，查找的时候应该还可以优化">
+      <option name="closed" value="true" />
+      <created>1691414846605</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1691414846605</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,9 +567,10 @@
     <MESSAGE value="lc242 easy 字母异位词判断" />
     <MESSAGE value="lc128 mid 最长连续序列" />
     <MESSAGE value="lc283 easy 移动零" />
-    <MESSAGE value="lc 73 189 238" />
     <MESSAGE value="lc 73 238" />
-    <option name="LAST_COMMIT_MESSAGE" value="lc 73 238" />
+    <MESSAGE value="lc 73 189 238" />
+    <MESSAGE value="lc 31 mid 下一个排列，思路想了很久，实现不难，查找的时候应该还可以优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="lc 31 mid 下一个排列，思路想了很久，实现不难，查找的时候应该还可以优化" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -572,9 +584,9 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/codeking/lc/lc31.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="20" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/codeking/lc/lc234.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
