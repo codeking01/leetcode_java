@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc 31 mid 下一个排列，思路想了很久，实现不难，查找的时候应该还可以优化">
+    <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc 234 easy 回文链表">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc189.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -329,7 +328,7 @@
       <workItem from="1691458757264" duration="12000" />
       <workItem from="1691496950557" duration="6239000" />
       <workItem from="1691546187889" duration="65000" />
-      <workItem from="1691588267250" duration="2783000" />
+      <workItem from="1691588267250" duration="3793000" />
     </task>
     <task id="LOCAL-00001" summary="2023.5.16,master commit,hot lc 04,05">
       <created>1684228405036</created>
@@ -516,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691414846605</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="lc 234 easy 回文链表">
+      <option name="closed" value="true" />
+      <created>1691591487810</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1691591487810</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +577,8 @@
     <MESSAGE value="lc 73 238" />
     <MESSAGE value="lc 73 189 238" />
     <MESSAGE value="lc 31 mid 下一个排列，思路想了很久，实现不难，查找的时候应该还可以优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="lc 31 mid 下一个排列，思路想了很久，实现不难，查找的时候应该还可以优化" />
+    <MESSAGE value="lc 234 easy 回文链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="lc 234 easy 回文链表" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -582,11 +590,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/codeking/lc/lc73.java</url>
           <line>44</line>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/codeking/lc/lc234.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
