@@ -12,6 +12,7 @@ public class lc206 {
         new lc206().reverseList(listNode2);
     }
 
+    // 双指针
     public ListNode2 reverseList(ListNode2 head) {
         ListNode2 pre = null;
         ListNode2 cur = head;

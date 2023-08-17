@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dffee272-349d-48aa-895a-ff26a84040e5" name="更改" comment="lc 234 easy 回文链表">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc189.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeking/lc/lc206.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,10 +100,10 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2678161&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.codeium.AppSettingsConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -113,9 +115,22 @@
       <recent name="C:\ALL_Softwares\Develop_Tools\all_projects\leetcode\py_leetcode\test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.lc234">
-    <configuration name="lc160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc160" />
+  <component name="RunManager" selected="应用程序.lc19">
+    <configuration name="lc142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc142" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeking.lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc19" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -153,25 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc31" />
+    <configuration name="mt01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeking.exam.mtTest.mt01" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codeking.lc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeking.lc.lc73" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codeking.lc.*" />
+          <option name="PATTERN" value="com.codeking.exam.mtTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.lc19" />
+        <item itemvalue="应用程序.mt01" />
+        <item itemvalue="应用程序.lc142" />
         <item itemvalue="应用程序.lc234" />
         <item itemvalue="应用程序.lc206" />
-        <item itemvalue="应用程序.lc160" />
-        <item itemvalue="应用程序.lc31" />
-        <item itemvalue="应用程序.lc73" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +330,24 @@
       <workItem from="1691458757264" duration="12000" />
       <workItem from="1691496950557" duration="6239000" />
       <workItem from="1691546187889" duration="65000" />
-      <workItem from="1691588267250" duration="3793000" />
+      <workItem from="1691588267250" duration="4355000" />
+      <workItem from="1691631443760" duration="1490000" />
+      <workItem from="1691677802516" duration="731000" />
+      <workItem from="1691719612795" duration="348000" />
+      <workItem from="1691720120074" duration="97000" />
+      <workItem from="1691720239875" duration="875000" />
+      <workItem from="1691760955027" duration="3720000" />
+      <workItem from="1691768162449" duration="723000" />
+      <workItem from="1691806503679" duration="6488000" />
+      <workItem from="1691813024819" duration="259000" />
+      <workItem from="1691923746482" duration="47000" />
+      <workItem from="1691924024057" duration="49000" />
+      <workItem from="1691924093201" duration="628000" />
+      <workItem from="1692176865613" duration="792000" />
+      <workItem from="1692239255849" duration="2247000" />
+      <workItem from="1692243732774" duration="3803000" />
+      <workItem from="1692262742487" duration="3103000" />
+      <workItem from="1692273769290" duration="3946000" />
     </task>
     <task id="LOCAL-00001" summary="2023.5.16,master commit,hot lc 04,05">
       <created>1684228405036</created>
@@ -523,7 +542,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691591487810</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="lc 141 easy 环状链表，快慢指针解决">
+      <option name="closed" value="true" />
+      <created>1691592349210</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1691592349211</updated>
+    </task>
+    <task id="LOCAL-00027" summary="lc 206 easy 反转链表，双指针/递归">
+      <option name="closed" value="true" />
+      <created>1691592495021</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1691592495021</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,8 +588,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023.5.16,master commit,hot lc 04,05" />
-    <MESSAGE value="2023.5.18,master commit,hot lc 06" />
     <MESSAGE value="2023.5.18,master commit,hot lc 07" />
     <MESSAGE value="2023.5.19,master commit,hot lc 15" />
     <MESSAGE value="2023.5.19,master commit,hot lc 14" />
@@ -577,8 +610,10 @@
     <MESSAGE value="lc 73 238" />
     <MESSAGE value="lc 73 189 238" />
     <MESSAGE value="lc 31 mid 下一个排列，思路想了很久，实现不难，查找的时候应该还可以优化" />
+    <MESSAGE value="lc 141 easy 环状链表，快慢指针解决" />
     <MESSAGE value="lc 234 easy 回文链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="lc 234 easy 回文链表" />
+    <MESSAGE value="lc 206 easy 反转链表，双指针/递归" />
+    <option name="LAST_COMMIT_MESSAGE" value="lc 206 easy 反转链表，双指针/递归" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
